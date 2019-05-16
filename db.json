@@ -1,0 +1,16 @@
+{ 
+  "floor1" : [   
+                     { "roomName" : "Room1.1",  
+                       "capacity"  : "4"},
+
+                     { "roomName" : "Room1.2",  
+                       "capacity"  : "10"}
+                 ],                            
+  "floor2"      : [ 
+                     { "roomName" : "Room2.1",  
+                       "capacity"  : "6"},
+
+                     { "roomName" : "Room2.2",  
+                       "capacity"  : "4"}
+                 ] 
+} 
